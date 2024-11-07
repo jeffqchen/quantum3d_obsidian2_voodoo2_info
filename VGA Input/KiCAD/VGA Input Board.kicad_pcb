@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Quantum3D Obsidian2 VGA Input PCB")
+		(date "2024-11-07")
+		(rev "1.0")
+		(company "Jeff Chen")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)

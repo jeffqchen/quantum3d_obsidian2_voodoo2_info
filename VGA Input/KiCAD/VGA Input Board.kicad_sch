@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
 	(paper "A4")
+	(title_block
+		(title "Quantum3D Obsidian2 VGA Input PCB")
+		(date "2024-11-07")
+		(rev "1.0")
+		(company "Jeff Chen")
+	)
 	(lib_symbols
 		(symbol "Quantum3D Voodoo2:Quantum_VGA_IN_J2"
 			(exclude_from_sim no)

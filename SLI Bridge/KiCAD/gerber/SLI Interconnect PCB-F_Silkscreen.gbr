@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*%
-%TF.CreationDate,2024-10-24T14:08:13-04:00*%
-%TF.ProjectId,SLI Interconnect PCB,534c4920-496e-4746-9572-636f6e6e6563,rev?*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
+%TF.CreationDate,2024-11-07T15:02:59-05:00*%
+%TF.ProjectId,SLI Interconnect PCB,534c4920-496e-4746-9572-636f6e6e6563,1.0*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Legend,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.5) date 2024-10-24 14:08:13*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2024-11-07 15:02:59*
 %MOMM*%
 %LPD*%
 G01*

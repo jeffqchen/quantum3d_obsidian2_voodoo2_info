@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Quantum3D Obsidian2 Xlinx CPLD Replacement")
+		(date "2024-11-07")
+		(rev "1.0")
+		(company "Jeff Chen")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)
@@ -642,7 +648,7 @@
 		)
 		(fp_arc
 			(start 16.075577 15.48435)
-			(mid 15.899813 15.908668)
+			(mid 15.899814 15.908671)
 			(end 15.475494 16.084433)
 			(stroke
 				(width 0.15)
