@@ -17,8 +17,13 @@ I have designed a PCB to plug into those  pin header vias, so you can add a VGA 
 
 
 ### U21 Xilinx CPLD Replacement
+
 The U21 chip, a Xilinx CPLD, controls mainly sync signals that's output to the VGA output. IF the U21 Xilinx chip on your Q3D card is dead, you won't have any video output on the screen. Sadly, Xilinx chips are well-known to die randomly.
 
 I designed a simple logic circuit to function similarly to the Xilinx CPLD.
 
 *I can tell that the Xilinx CPLD was also doing some signal shaping work, as my replacement outputs a slightly different sized image. But you can easily adjust the monitor to take care of the difference.*
+
+### SLI Bridge
+
+This card can do SLI! However you need to add in a few missing components before that. But with that part of the issue solved, I've come up with a rigid SLI bridge board, that helps you SLI two of the same card, or with a reference card. The info on how to create a ribbon type connector will also be available.
