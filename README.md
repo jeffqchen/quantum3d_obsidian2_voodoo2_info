@@ -4,7 +4,7 @@
 
 I have luckily obtained TWO Quantum3D Obsidian2 Voodoo2 cards from a kind eBay seller. They were both broken, so I spend a few weeks ionvestigating and fixing them up, plus designing upgrades to enhance its functionalities. I hope my work will help some of you repair and make your Q3D cards work better.
 
-## Mods
+## Add-on Projects
 
 I have designed the following mods for this card.
 - VGA Input Board
@@ -34,5 +34,11 @@ I designed a simple logic circuit to function similarly to the Xilinx CPLD.
 <img src="https://github.com/user-attachments/assets/38528fac-02f9-4fe8-ab6e-efcf25808933" width=400> <img src="https://github.com/user-attachments/assets/a1d1aeb0-7cc8-45bd-b164-772cb0be827b" width=400>
 
 This card can do SLI! However you need to add in a few missing components before that. With that part taken care of, I've come up with a rigid SLI bridge board that helps you SLI two of these same cards, or with a reference card. The info on how to create a ribbon type cable will also be available.
+
+## Mods
+
+<img src="https://github.com/user-attachments/assets/192f9c04-e282-4070-932b-58050707038c" width=400> <img src="https://github.com/user-attachments/assets/3af62eb1-be3f-4528-b8f6-8422dec971e4" width=400>
+
+Solder on 2MB of EDO RAM chips to the FBI on the back of the card to make it a 12MB Voodoo 2.
 
 All information is available in the [Project Wiki](https://github.com/jeffqchen/quantum3d_obsidian2_voodoo2_info/wiki) pages.
