@@ -34,3 +34,5 @@ I designed a simple logic circuit to function similarly to the Xilinx CPLD.
 <img src="https://github.com/user-attachments/assets/38528fac-02f9-4fe8-ab6e-efcf25808933" width=400> <img src="https://github.com/user-attachments/assets/a1d1aeb0-7cc8-45bd-b164-772cb0be827b" width=400>
 
 This card can do SLI! However you need to add in a few missing components before that. With that part taken care of, I've come up with a rigid SLI bridge board that helps you SLI two of these same cards, or with a reference card. The info on how to create a ribbon type cable will also be available.
+
+All information is available in the [Project Wiki](https://github.com/jeffqchen/quantum3d_obsidian2_voodoo2_info/wiki) pages.
