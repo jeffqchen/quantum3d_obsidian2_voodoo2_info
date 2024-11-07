@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/user-attachments/assets/d74ee309-6c4d-424b-a43d-e56f6b68d14a)
 
-I have luckily obtained TWO Quantum3D Obsidian2 Voodoo2 cards from a kind eBay seller. They were both broken, so I spend a few weeks ionvestigating and fixing them up, plus designing upgrades to enhance its functionalities. I hope my work will help some of you repair and make your Q3D cards work better.
+I have luckily obtained TWO broken Quantum3D Obsidian2 Voodoo2 cards from a kind eBay seller. They were both broken, so I spend a few weeks ionvestigating and fixing them up, plus designing upgrades to enhance its functionalities. I hope my work will help some of you repair and make your Q3D cards work better.
 
 ## Mods
 
