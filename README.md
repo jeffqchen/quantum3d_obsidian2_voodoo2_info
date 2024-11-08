@@ -1,8 +1,8 @@
-# Quantum3D Obsidian2 Voodoo2 Info
+# Quantum3D Obsidian2 Arcade Voodoo2 Info
 
 ![banner](https://github.com/user-attachments/assets/d74ee309-6c4d-424b-a43d-e56f6b68d14a)
 
-I have luckily obtained TWO Quantum3D Obsidian2 Voodoo2 cards from a kind eBay seller. They were both broken, so I spend a few weeks ionvestigating and fixing them up, plus designing upgrades to enhance its functionalities. I hope my work will help some of you repair and make your Q3D cards work better.
+I have luckily obtained TWO Quantum3D Obsidian2 arcade Voodoo2 cards from a kind eBay seller. They were both broken, so I spend a few weeks ionvestigating and fixing them up, plus designing upgrades to enhance its functionalities. I hope my work will help some of you repair and make your Q3D cards work better.
 
 ## Add-on Projects
 
@@ -15,9 +15,13 @@ I have designed the following mods for this card.
 
 <img src="https://github.com/user-attachments/assets/58bd1334-42e6-49d5-985d-173edd2c8a90" width=400> <img src="https://github.com/user-attachments/assets/13575cf6-f5f0-435a-bdb6-092a3f001347" width=400>
 
-The Q3D card does not come with a VGA input like a retail Voodoo 2 card. However, it has a pin header footprint on the PCB for that purpose.
+The Q3D arcade card does not come with a VGA input like a retail Voodoo 2 card. However, it has a pin header footprint on the PCB for that purpose.
 
 I have designed a PCB to plug into the pin header, so you can add a VGA male port, plug in the VGA output of your 2D video card via that Voodoo passthrough cable.
+
+Note there is a retail version of the Q3D card that was populated with a 8-pin mini DIN connector for VGA input. You won't be able to use my VGA input board with that port present.
+
+<img src="https://github.com/user-attachments/assets/25bf0f6c-ac45-4ef4-ab9d-805a04920608" width=400>
 
 ### U21 Xilinx CPLD Replacement
 
