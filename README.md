@@ -31,8 +31,6 @@ The U21 chip, a Xilinx CPLD, controls mainly sync signals that's output to the V
 
 I designed a simple logic circuit to function similarly to the Xilinx CPLD.
 
-*I can tell that the Xilinx CPLD was also performing some kind of signal shaping, as my replacement outputs image in a slightly different size. But you can easily adjust the monitor to count for of the difference.*
-
 ### SLI Bridge
 
 <img src="https://github.com/user-attachments/assets/38528fac-02f9-4fe8-ab6e-efcf25808933" width=400> <img src="https://github.com/user-attachments/assets/a1d1aeb0-7cc8-45bd-b164-772cb0be827b" width=400>
