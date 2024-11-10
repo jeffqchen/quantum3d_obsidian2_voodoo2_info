@@ -19,10 +19,6 @@ The Q3D arcade card does not come with a VGA input like a retail Voodoo 2 card. 
 
 I have designed a PCB to plug into the pin header, so you can add a VGA male port, plug in the VGA output of your 2D video card via that Voodoo passthrough cable.
 
-Note there is a retail version of the Q3D card that was populated with a 8-pin mini DIN connector for VGA input. You won't be able to use my VGA input board with that port present.
-
-<img src="https://github.com/user-attachments/assets/25bf0f6c-ac45-4ef4-ab9d-805a04920608" width=400>
-
 ### U21 Xilinx CPLD Replacement
 
 <img src="https://github.com/user-attachments/assets/030cd0b4-02d7-48d7-902c-469b66753450" width=400> <img src="https://github.com/user-attachments/assets/c4a8ca3c-9be2-410e-8c31-d44b522985e0" width=400>
