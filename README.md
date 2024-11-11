@@ -1,6 +1,6 @@
 # Quantum3D Obsidian2 Arcade Voodoo2 Info
 
-![banner](https://github.com/user-attachments/assets/d74ee309-6c4d-424b-a43d-e56f6b68d14a)
+![q3d_cover](https://github.com/user-attachments/assets/05ede41b-857c-453e-ac4d-8db021c4961f)
 
 I have luckily obtained TWO Quantum3D Obsidian2 arcade Voodoo2 cards from a kind eBay seller. They were both broken, so I spend a few weeks investigating and fixing them up, plus designing upgrades to enhance its functionalities. I hope my work will help some of you repair and make your Q3D cards work better.
 
