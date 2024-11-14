@@ -39,4 +39,8 @@ This card can do SLI! However you need to add in a few missing components before
 
 Solder on 2MB of EDO RAM chips to the FBI on the back of the card to make it a 12MB Voodoo 2.
 
+<img src="https://github.com/user-attachments/assets/bd46c42e-08ad-42f8-877d-4963a9ce8127" width=400> <img src="https://github.com/user-attachments/assets/1b821c5d-acbf-4553-b906-aa1b4b854db4" width=400>
+
+Restore picture brightness to the full PC standard.
+
 All information is available in the [Project Wiki](https://github.com/jeffqchen/quantum3d_obsidian2_voodoo2_info/wiki) pages.
