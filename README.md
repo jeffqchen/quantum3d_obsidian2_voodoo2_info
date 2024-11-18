@@ -10,6 +10,7 @@ I have designed the following mods for this card.
 - VGA Input Board
 - U21 Xilinx CPLD Replacement
 - SLI Bridge. Both rigid & ribbon type
+- Protective Armor
 
 ### VGA Input Board
 
@@ -32,6 +33,14 @@ I designed a simple logic circuit to function similarly to the Xilinx CPLD.
 <img src="https://github.com/user-attachments/assets/38528fac-02f9-4fe8-ab6e-efcf25808933" width=400> <img src="https://github.com/user-attachments/assets/a1d1aeb0-7cc8-45bd-b164-772cb0be827b" width=400>
 
 This card can do SLI! However you need to add in a few missing components before that. With that part taken care of, I've come up with a rigid SLI bridge board that helps you SLI two of these same cards, or with a reference card. The info on how to create a ribbon type cable will also be available.
+
+### Protective Armor
+
+This set of 3D printed armor will protect sensitive SMD components and improve handling of the card, while making the card look way more nicer. It wouldn't hurt to try!
+
+<img src="https://github.com/user-attachments/assets/af98fcf5-9f91-443a-86ff-7620e5b8ce7f" width=800>
+
+<img src="https://github.com/user-attachments/assets/5acdf2c2-59ed-45ab-a19a-b28eb07354d5" width=400> <img src="https://github.com/user-attachments/assets/aec538a6-b814-4a80-8c75-c7a4bf7223b6" width=400>
 
 ## Mods
 
