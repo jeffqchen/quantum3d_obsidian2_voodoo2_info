@@ -24,9 +24,13 @@ I have designed a PCB to plug into the pin header, so you can add a VGA male por
 
 <img src="https://github.com/user-attachments/assets/030cd0b4-02d7-48d7-902c-469b66753450" width=400> <img src="https://github.com/user-attachments/assets/c4a8ca3c-9be2-410e-8c31-d44b522985e0" width=400>
 
-The U21 chip, a Xilinx CPLD, controls mainly sync signals that's output to the VGA output. IF the U21 Xilinx chip on your Q3D card is dead, you won't have any video output on the screen. Sadly, Xilinx chips are well-known to die randomly.
+The U21 chip, a Xilinx CPLD, controls mainly sync signals that's output to the VGA output.
 
-I designed a simple logic circuit to function similarly to the Xilinx CPLD.
+There seems to be a few situations wit this chip.
+- Some arcade boards comes with a secutiry setup and this chip won't function as-is.
+- Sometimes this Xilinx chip dies, and you won't have any video output on the screen.
+
+Both situations will render the card useless. I designed a simple logic circuit to function similarly to the unlocked Xilinx CPLD.
 
 ### SLI Bridge
 
