@@ -27,7 +27,7 @@ I have designed a PCB to plug into the pin header, so you can add a VGA male por
 The U21 chip, a Xilinx CPLD, controls mainly sync signals that's output to the VGA output.
 
 There seems to be a few situations wit this chip.
-- Some arcade boards comes with a secutiry setup and this chip won't function as-is.
+- Some arcade boards come with a security setup and this chip won't function as-is.
 - Sometimes this Xilinx chip dies, and you won't have any video output on the screen.
 
 Both situations will render the card useless. I designed a simple logic circuit to function similarly to the unlocked Xilinx CPLD.
